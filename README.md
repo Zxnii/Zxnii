@@ -1,3 +1,28 @@
-动态网自由门 天安門 天安门 法輪功 李洪志 Free Tibet 六四天安門事件 The Tiananmen Square protests of 1989 天安門大屠殺 The Tiananmen Square Massacre 反右派鬥爭 The Anti-Rightist Struggle 大躍進政策 The Great Leap Forward 文化大革命 The Great Proletarian Cultural Revolution 人權 Human Rights 民運 Democratization 自由 Freedom 獨立 Independence 多黨制 Multi-party system 台灣 臺灣 Taiwan Formosa 中華民國 Republic of China 西藏 土伯特 唐古特 Tibet 達賴喇嘛 Dalai Lama 法輪功 Falun Dafa 新疆維吾爾自治區 The Xinjiang Uyghur Autonomous Region 諾貝爾和平獎 Nobel Peace Prize 劉暁波 Liu Xiaobo 民主 言論 思想 反共 反革命 抗議 運動 騷亂 暴亂 騷擾 擾亂 抗暴 平反 維權 示威游行 李洪志 法輪大法 大法弟子 強制斷種 強制堕胎 民族淨化 人體實驗 肅清 胡耀邦 趙紫陽 魏京生 王丹 還政於民 和平演變 激流中國 北京之春 大紀元時報 九評論共産黨 獨裁 專制 壓制 統一 監視 鎮壓 迫害 侵略 掠奪 破壞 拷問 屠殺 活摘器官 誘拐 買賣人口 遊進 走私 毒品 賣淫 春畫 賭博 六合彩 天安門 天安门 法輪功 李洪志 Winnie the Pooh 劉曉波动态网自由门
+**👋 Hola! My name is zani, I do programming and stuff.**
+
+
+I am a fullstack developer, however I mainly do backend. I also work on bringing desktop game development to Node.js.
+
+I also have a ***[website](https://zani.wtf)***, where I go indepth about stuff I'm working on.
+
+**Main Languages**:
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Zxnii/Zxnii/blob/main/typescript.png" alt="TS" width="16"/> Typescript
+
+**Current projects**:
+
+&nbsp;&nbsp;&nbsp;&nbsp;***[Minecraft TS](https://github.com/minecraftts)*** is a project aiming to remake Minecraft *(server & client)* as close to 1:1 using TypeScript. Every version from 1.8 to latest.
+
+**Contact**:
+
+&nbsp;&nbsp;Wanna say hi? You can reach me via any of the methods listed below
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Zxnii/Zxnii/blob/main/discord.png" alt="Discord" width="16" height="16" /> zani#7325
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Zxnii/Zxnii/blob/main/scratch.png" alt="Scratch" width="16" height="16" /> [Scratch](https://scratch.mit.edu/users/uwv)
+
+**Github Stats**:
 
 ![ok](https://github-readme-stats.vercel.app/api?username=Zxnii&count_private=true&theme=tokyonight&hide=contribs,prs&hide_border=true&show_icons=true)
+
+(sorry for the fairly messy README, I don't really know what to write nor have I done this before)
