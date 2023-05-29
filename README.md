@@ -1,3 +1,9 @@
-im zani and i use typescript a lot
+hai !! im zani !! i am a fullstack software engineer (WOW!) :3 :3 :3
 
-also check out [my website](https://zani.wtf)
+check out [my website](https://zani.wtf) :3 :3 :3
+
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
