@@ -5,7 +5,7 @@ check out [my website](https://zani.wtf) :3 :3 :3
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
